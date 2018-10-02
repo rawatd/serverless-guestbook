@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'https://service.us.apiconnect.ibmcloud.com/gws/apigateway/api/CHANGEME/guestbook';
+const apiUrl = 'https://service.eu.apiconnect.ibmcloud.com/gws/apigateway/api/db4d4cace89f25eb934034b5c8f9a9d8ee7962c8732a03f4282e79afaac1e2b6/guestbook';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
